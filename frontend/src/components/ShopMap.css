@@ -1,0 +1,52 @@
+.leaflet-map {
+  height: 100%;
+  width: 100%;
+}
+
+/* Popup styles */
+.popup {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 180px;
+  max-width: 240px;
+}
+
+.popup-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.popup-neighborhood {
+  font-size: 0.75rem;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.popup-address {
+  font-size: 0.82rem;
+  color: #444;
+  margin-top: 2px;
+}
+
+.popup-notes {
+  font-size: 0.8rem;
+  color: #666;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+.popup-directions {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.popup-directions:hover {
+  text-decoration: underline;
+}

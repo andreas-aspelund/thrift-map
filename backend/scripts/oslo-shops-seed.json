@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Fretex Arkivet",
+    "address": "Olaf Ryes plass 3, 0552 Oslo",
+    "lat": 59.9228,
+    "lng": 10.7566,
+    "neighborhood": "Grünerløkka",
+    "notes": "Salvation Army charity shop. Large selection of clothing and more."
+  },
+  {
+    "name": "Frøken Dianas Salonger",
+    "address": "Markveien 56, 0554 Oslo",
+    "lat": 59.9243,
+    "lng": 10.7582,
+    "neighborhood": "Grünerløkka",
+    "notes": "Popular vintage shop on Markveien."
+  },
+  {
+    "name": "Past",
+    "address": "Markveien 54, 0554 Oslo",
+    "lat": 59.9241,
+    "lng": 10.7581,
+    "neighborhood": "Grünerløkka",
+    "notes": "Known for vintage Levi's, silk shirts and quality textiles."
+  },
+  {
+    "name": "Vintage Wear",
+    "address": "Thorvald Meyers gate 50, 0552 Oslo",
+    "lat": 59.9244,
+    "lng": 10.7578,
+    "neighborhood": "Grünerløkka",
+    "notes": "Vintage clothing shop on Grünerløkka's main street."
+  },
+  {
+    "name": "Robot",
+    "address": "Korsgata 22, 0551 Oslo",
+    "lat": 59.9211,
+    "lng": 10.7572,
+    "neighborhood": "Grünerløkka",
+    "notes": "Vintage and secondhand clothing in Grünerløkka."
+  },
+  {
+    "name": "Røde Kors Secondhand",
+    "address": "Osterhaus' gate 12, 0183 Oslo",
+    "lat": 59.9209,
+    "lng": 10.7590,
+    "neighborhood": "Grünerløkka",
+    "notes": "Red Cross charity secondhand shop."
+  },
+  {
+    "name": "UFF Underground",
+    "address": "Prinsens gate 2b, 0152 Oslo",
+    "lat": 59.9121,
+    "lng": 10.7476,
+    "neighborhood": "City centre",
+    "notes": "Central Oslo secondhand / UFF chain store."
+  },
+  {
+    "name": "Prisløs",
+    "address": "Øvre Slottsgate 6, 0157 Oslo",
+    "lat": 59.9129,
+    "lng": 10.7363,
+    "neighborhood": "City centre",
+    "notes": "Budget-friendly secondhand shop near the Royal Palace."
+  },
+  {
+    "name": "Lé Trend",
+    "address": "Pilestredet 7, 0180 Oslo",
+    "lat": 59.9159,
+    "lng": 10.7342,
+    "neighborhood": "City centre",
+    "notes": "Specialises in 1990s fashion."
+  },
+  {
+    "name": "Eftir",
+    "address": "Holmens gate 4, 0250 Oslo",
+    "lat": 59.9089,
+    "lng": 10.7245,
+    "neighborhood": "Aker Brygge",
+    "notes": "Curated vintage with unique jewellery. Fjong rental service on second floor."
+  },
+  {
+    "name": "Ditto",
+    "address": "Industrigata 47a, 0357 Oslo",
+    "lat": 59.9286,
+    "lng": 10.7141,
+    "neighborhood": "Majorstuen",
+    "notes": "Vintage clothing and footwear, focus on menswear."
+  },
+  {
+    "name": "No. 5 Vintage",
+    "address": "Frederik Stangs gate 35, 0264 Oslo",
+    "lat": 59.9194,
+    "lng": 10.7102,
+    "neighborhood": "Frogner",
+    "notes": "Vintage shop in the Frogner neighbourhood."
+  }
+]

@@ -1,0 +1,47 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  height: 52px;
+  background: #1a1a1a;
+  color: #f8f5f0;
+  flex-shrink: 0;
+  z-index: 1000;
+}
+
+.header-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.header-count {
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+.map-wrapper {
+  flex: 1;
+  min-height: 0; /* important — lets the flex child actually fill remaining space */
+}
+
+/* Loading / error screens */
+.status-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 1rem;
+  color: #555;
+}
+
+.status-screen.error {
+  color: #c0392b;
+}
